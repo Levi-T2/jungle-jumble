@@ -1,0 +1,22 @@
+/* BASIC STYLES HERE */
+
+
+.boxes {
+    background-color: antiquewhite;
+    border: 5px solid black;
+    font-weight: bold;
+    border-radius: 3%;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+textarea {
+    width: 85%;
+}
+
+.bg-img {
+    background-image: url(https://wallsneedlove.com/cdn/shop/products/w0275_1s_Velvet-Bananas-Removable-Peel-and-Stick-Wallpaper_Repeating-Pattern-Sample-2.jpg?v=1604091425);
+    background-position: center;
+    background-size: cover;
+
+}
